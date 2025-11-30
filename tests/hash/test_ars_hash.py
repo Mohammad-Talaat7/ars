@@ -1,4 +1,4 @@
-"""Pytest suite for ARS-Hash integer variant.
+"""Pytest suite for ARS-Hash Class.
 
 Covers:
 - simple sorted lists
